@@ -1,4 +1,4 @@
-# An Individual's Likelihood on Making Over/Under $50K Based on Certain Features
+# An Individual's Likelihood on Making Over/Under $50K Based on Categorical Features
 
 ### Built With Python 3.11
 
