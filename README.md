@@ -9,19 +9,30 @@ Using the Census Income dataset from the <a href="https://archive.ics.uci.edu/da
 
 <!-- Installation and Running the Project -->
 ### Installation and Running the Project
-
 1. Clone the repo 
-   ```sh
-   git clone https://github.com/adeloatch/census-final-project 
+   ```
+   git clone https://github.com/adeloatch/census-final-project
+    ```
    
 2. Ensure the necessary packages are installed via your package manager (pip, anaconda,etc.) and import the modules into your python/notebook file. 
-    ```sh
+    ```
    import pandas as pd
    import numpy as np
     import statsmodels.api as sm
     import random
-    import seaborn as sns 
+    import seaborn as sns
+     ```
 3. If you're using the ucimlrepo library for importing the data, be sure to install and import the dependencies.
-  ```sh
+  ```
   pip install ucimlrepo
   from ucimlrepo import fetch_ucirepo
+ ```
+
+### Data
+
+### Usage
+
+<!-- LICENSE -->
+### License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
