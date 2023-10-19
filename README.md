@@ -29,7 +29,7 @@ Using the Census Income dataset from the <a href="https://archive.ics.uci.edu/da
  ```
 
 ### Data
-You can find the data file we used for our statistical analyses in the "src" folder as "census.csv". The .csv file format was used because it was the most familiar for the team. Feel free to change parameters and slice up the data any way you'd like to interpret different types of results. It's important to note that the majority of features are categorical and if you'd like a feature breakdown you can visit the <a href="https://archive.ics.uci.edu/dataset/2/adult", target="_blank">UC Irvine Machine Learning Repository</a>
+You can find the data file we used for our statistical analyses in the "src" folder as "census.csv". The .csv file format was used because it was the most familiar for the team. Feel free to change parameters and slice up the data any way you'd like to interpret different types of results. It's important to note that the majority of features are categorical and if you'd like a feature breakdown you can visit the <a href="https://archive.ics.uci.edu/dataset/2/adult" target="_blank">UC Irvine Machine Learning Repository</a>
 
 <!-- LICENSE -->
 ### License
