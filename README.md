@@ -21,7 +21,7 @@ Using the Census Income dataset from the <a href="https://archive.ics.uci.edu/da
     import statsmodels.api as sm
     import random
     import scipy.stats as stats
-    import matplotlib.pyploy as plt
+    import matplotlib.pyplot as plt
      ```
 3. If you're using the ucimlrepo library for importing the data, be sure to install and import the dependencies.
   ```
