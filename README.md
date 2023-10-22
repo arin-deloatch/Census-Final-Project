@@ -22,6 +22,7 @@ Using the Census Income dataset from the <a href="https://archive.ics.uci.edu/da
     import random
     import scipy.stats as stats
     import matplotlib.pyplot as plt
+    import seaborn as sns
      ```
 3. If you're using the ucimlrepo library for importing the data, be sure to install and import the dependencies.
   ```
